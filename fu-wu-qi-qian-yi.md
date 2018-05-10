@@ -1,0 +1,10 @@
+# 服务器迁移
+
+阿里云 byebye ~
+
+## 1.备份所有数据
+
+```bash
+mysqldump -u root -p --all-databases > ./all.sql
+```
+

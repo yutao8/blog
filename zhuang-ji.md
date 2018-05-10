@@ -1,0 +1,17 @@
+# 装机
+
+> 装机配置单
+
+## 办公型\(3500预算\)
+
+| 配件 | 型号 | 价格 |
+| --- | --- | --- |
+| CPU | 奔腾 G4560 盒装 | [499元](https://item.jd.com/4167802.html) |
+| 主板 | 微星B250M MORTAR | [499元](https://item.jd.com/3775065.html) |
+| 内存 | 金士顿DDR4 2400 8G | [753元](https://item.jd.com/3307918.html) |
+| 固态 | 闪迪加强版 120G | [389元](https://item.jd.com/1398976.html) |
+| 硬盘 | 西部数据\(WD\)蓝盘 1TB | [289元](https://item.jd.com/675971.html?dist=jd) |
+| 电源 | 航嘉350W JUMPER350S | [199元](https://item.jd.com/942039.html?dist=jd) |
+| 机箱 | 金河田机箱3302 | [99元](https://item.jd.com/11122913748.html?dist=jd) |
+| 显示器 | 惠普22ES 21.5英寸 | [709元](https://item.jd.com/2782752.html?dist=jd) |
+
